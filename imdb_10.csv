@@ -1,0 +1,12 @@
+star_rating,title,content_rating,genre,duration,actors_list
+9.3,The Shawshank Redemption,R,Crime,142,"[u'Tim Robbins', u'Morgan Freeman', u'Bob Gunton']"
+9.2,The Godfather,R,Crime,175,"[u'Marlon Brando', u'Al Pacino', u'James Caan']"
+8.8,Star Wars: Episode V - The Empire Strikes Back,PG,Action,124,"[u'Mark Hamill', u'Harrison Ford', u'Carrie Fisher']"
+8.8,The Lord of the Rings: The Two Towers,PG-13,Adventure,179,"[u'Elijah Wood', u'Ian McKellen', u'Viggo Mortensen']"
+8.7,Interstellar,PG-13,Adventure,169,"[u'Matthew McConaughey', u'Anne Hathaway', u'Jessica Chastain']"
+8.4,Yojimbo,UNRATED,Action,110,"[u'Toshir\xf4 Mifune', u'Eijir\xf4 T\xf4no', u'Tatsuya Nakadai']"
+8.4,Amadeus,R,Biography,160,"[u'F. Murray Abraham', u'Tom Hulce', u'Elizabeth Berridge']"
+8.2,Diabolique,UNRATED,Horror,116,"[u'Simone Signoret', u'V\xe9ra Clouzot', u'Paul Meurisse']"
+7.8,The Day the Earth Stood Still,APPROVED,Sci-Fi,92,"[u'Michael Rennie', u'Patricia Neal', u'Hugh Marlowe']"
+7.7,Detachment,NOT RATED,Drama,98,"[u'Adrien Brody', u'Christina Hendricks', u'Marcia Gay Harden']"
+7.4,Wall Street,R,Crime,126,"[u'Charlie Sheen', u'Michael Douglas', u'Tamara Tunie']"

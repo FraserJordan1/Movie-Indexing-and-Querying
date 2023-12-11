@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Hashtable",
+      "setup": "sudo -H pip3 install pytest",
+      "run": " pytest -k TestHashtable  -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "MovieIndex",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -k TestMovieIndex  -raP ",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "GenreIndex",
+      "setup": "sudo -H pip3 install pytest",
+      "run": " pytest -k TestGenreIndex  -raP ",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "StarRatingIndex",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -k TestStarRatingIndex  -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "ActorIndex",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -k TestActorIndex  -raP ",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "QueryProcessor",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -k TestQueryProcessor  -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "FileParser",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -k TestFileParser  -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
